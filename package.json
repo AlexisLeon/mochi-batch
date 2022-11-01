@@ -1,0 +1,13 @@
+{
+  "name": "mochi",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Alexis Leon",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
